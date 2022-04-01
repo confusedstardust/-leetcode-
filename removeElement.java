@@ -1,4 +1,4 @@
-// 解法1 逐个写回nums，定义一个count为剩余元素个数用于返回
+// 解法1 逐个写回nums，定义一个count为剩余元素个数用于返回，此解法复杂度比2稍好
 public static int removeElement(int[] nums, int val) {
     int count=0;
     for (int i=0;i<nums.length;i++){
