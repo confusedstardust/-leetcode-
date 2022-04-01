@@ -17,4 +17,4 @@ this is my code for practice leetcode
 =====================removeElement.java=====================
 ![image](https://user-images.githubusercontent.com/74608709/161199598-444abe77-6782-43fd-96b3-dcb5d827d75d.png)![image](https://user-images.githubusercontent.com/74608709/161199743-b5db1472-9f2a-4b56-ad9a-deb87d628655.png)
 =====================selfDividingNumbers.java=====================
-![image](https://user-images.githubusercontent.com/74608709/161200097-c03c9c81-51e5-4019-a347-c80e8c6c59fb.png)
+![image](https://user-images.githubusercontent.com/74608709/161200193-615eefb4-b89a-4b3a-91dd-0faa4ee41bb8.png)
