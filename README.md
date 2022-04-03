@@ -18,3 +18,9 @@ this is my code for practice leetcode
 ![image](https://user-images.githubusercontent.com/74608709/161199598-444abe77-6782-43fd-96b3-dcb5d827d75d.png)![image](https://user-images.githubusercontent.com/74608709/161199743-b5db1472-9f2a-4b56-ad9a-deb87d628655.png)
 =====================selfDividingNumbers.java=====================
 ![image](https://user-images.githubusercontent.com/74608709/161200193-615eefb4-b89a-4b3a-91dd-0faa4ee41bb8.png)
+=====================romanToInt.java=====================
+![d2c2dd7951298965df135b153533c8f](https://user-images.githubusercontent.com/74608709/161432142-99aa7e47-2479-4775-a630-ca5b5058e626.png)
+=====================moveZero.java=====================
+![417710893c547ccee6ba9a8b69f75dc](https://user-images.githubusercontent.com/74608709/161432156-74388961-3369-48e7-91ef-537ac994bef3.png)
+=====================nextGreatestLetter.java=====================
+![3b91741bd06a70cb9f1339bbfb24f48](https://user-images.githubusercontent.com/74608709/161432166-0b78f49c-7f74-4473-9d92-718a66c49afb.png)
