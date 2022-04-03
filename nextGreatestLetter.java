@@ -1,3 +1,4 @@
+// 可以用二分，但我就不用，欧耶！！！
 public static char nextGreatestLetter(char[] letters, char target) {
         Map<Character,Integer> map=new HashMap<>();
         int i=0;
