@@ -26,5 +26,5 @@ this is my code for practice leetcode
 ![3b91741bd06a70cb9f1339bbfb24f48](https://user-images.githubusercontent.com/74608709/161432166-0b78f49c-7f74-4473-9d92-718a66c49afb.png)
 =====================findRepeatNumber.java=====================
 ![5e6af22e081cf358722bbd25dae18c9](https://user-images.githubusercontent.com/74608709/161539994-e3fb5cb3-3e7d-461a-a65f-877dc194db9c.png)
-=====================findRepeatNumber.java=====================
+=====================merge.java=====================
 ![image](https://user-images.githubusercontent.com/74608709/161582212-64ae30fb-2c65-4ca3-872f-fdb98fc93d70.png)
