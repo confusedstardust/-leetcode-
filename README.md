@@ -24,3 +24,5 @@ this is my code for practice leetcode
 ![417710893c547ccee6ba9a8b69f75dc](https://user-images.githubusercontent.com/74608709/161432156-74388961-3369-48e7-91ef-537ac994bef3.png)
 =====================nextGreatestLetter.java=====================
 ![3b91741bd06a70cb9f1339bbfb24f48](https://user-images.githubusercontent.com/74608709/161432166-0b78f49c-7f74-4473-9d92-718a66c49afb.png)
+=====================findRepeatNumber.java=====================
+![5e6af22e081cf358722bbd25dae18c9](https://user-images.githubusercontent.com/74608709/161539994-e3fb5cb3-3e7d-461a-a65f-877dc194db9c.png)
