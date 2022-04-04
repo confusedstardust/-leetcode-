@@ -1,3 +1,5 @@
+
+// 自己写的解法，用一个新数组存两个合并后的内容
 class Solution {
 public  void merge(int[] nums1, int m, int[] nums2, int n) {
         int[]newarray=new int[m+n];
@@ -31,5 +33,17 @@ public  void merge(int[] nums1, int m, int[] nums2, int n) {
         for(int i=0;i<nums1.length;i++)
         nums1[i]=newarray[i];
 
+    }
+}
+
+
+
+// 解法2，直接把nums1里面的0替换成nums2，再用sort排序，代码量极少，但这样就会很慢，就离谱
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        for (int i=0;i<nums2.length;i++){
+            nums1[m+i]=nums2[i];
+        }
+        Arrays.sort(nums1);
     }
 }
