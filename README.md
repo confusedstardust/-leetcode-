@@ -28,3 +28,4 @@ this is my code for practice leetcode
 ![5e6af22e081cf358722bbd25dae18c9](https://user-images.githubusercontent.com/74608709/161539994-e3fb5cb3-3e7d-461a-a65f-877dc194db9c.png)
 =====================merge.java=====================
 ![image](https://user-images.githubusercontent.com/74608709/161582212-64ae30fb-2c65-4ca3-872f-fdb98fc93d70.png)
+![image](https://user-images.githubusercontent.com/74608709/161583200-72a966af-188f-4878-a996-f2624d8da179.png)
